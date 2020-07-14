@@ -1,7 +1,8 @@
 <?php
 
-use App\URLHelper;
 use PHPUnit\Framework\TestCase;
+use App\URLHelper;
+
 
 class URLHelperTest extends TestCase
 {
