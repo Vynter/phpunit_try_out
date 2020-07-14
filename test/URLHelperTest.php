@@ -1,9 +1,10 @@
 <?php
 
-use PHPUnit\Framework\TestCase;
+//use PHPUnit\Framework\TestCase;
 use App\URLHelper;
+use PHPUnit\Framework\TestCase;
 
-
+//class URLHelperTest extends TestCase
 class URLHelperTest extends TestCase
 {
     public function test1egal1()
